@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "curso angular",
+      "validade": "2022-11-25",
+      "preco": 599.99
+    },
+    {
+      "nome": "curso de reacts",
+      "validade": "2022-09-29",
+      "preco": 1489,
+      "id": 2
+    },
+    {
+      "nome": "curso de html5",
+      "validade": "2022-09-30",
+      "preco": 489.99,
+      "id": 3
+    },
+    {
+      "nome": "cartão de visitas",
+      "validade": "2022-08-26",
+      "preco": 389.99,
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
